@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="FirstDM" id="2114A667-06A5-4872-F29F-36612FB2F30D" version="3.5">
+<createdBy>GSPANN Guest</createdBy>
+<createdTime>2018-06-27 18:07:12 UTC</createdTime>
+<ownerDesignName>FirstDM</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>2114A667-06A5-4872-F29F-36612FB2F30D</designId>
+</OSDM_Design>

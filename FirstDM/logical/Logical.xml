@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="B0C6FD5F-1371-64A0-34AE-5B2AA24385B7" mainViewID="EF92941F-AFED-60D4-2683-80E4102ACAC0">
+<createdBy>GSPANN Guest</createdBy>
+<createdTime>2018-06-27 18:07:12 UTC</createdTime>
+<ownerDesignName>FirstDM</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</LogicalDesign>

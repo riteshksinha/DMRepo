@@ -1,0 +1,22 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Diagram class="oracle.dbtools.crest.swingui.logical.DPVLogical" name="Logical" id="EF92941F-AFED-60D4-2683-80E4102ACAC0">
+<createdBy>GSPANN Guest</createdBy>
+<modifiedBy>GSPANN Guest</modifiedBy>
+<createdTime>2018-06-27 18:08:38 UTC</createdTime>
+<autoRoute>false</autoRoute>
+<boxInbox>true</boxInbox>
+<showLegend>false</showLegend>
+<showLabels>false</showLabels>
+<showRelAttributes>false</showRelAttributes>
+<gridEnabled>false</gridEnabled>
+<showGrid>false</showGrid>
+<diagramColor>-1</diagramColor>
+<display>false</display>
+<notation>1</notation>
+<objectViews>
+<OView class="oracle.dbtools.crest.swingui.logical.TVEntity" oid="157582A4-DA25-ACD1-F857-F87E3DFB73E1" otype="Entity" vid="3FACFE4D-B4E8-A914-936E-849E488C3A46">
+<hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
+<bounds x="355" y="152" width="170" height="110"/>
+</OView>
+</objectViews>
+</Diagram>

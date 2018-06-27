@@ -1,0 +1,25 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="DBD8BC94-6353-9E8C-743F-B1120F3DA750" name="EMP">
+<createdBy>GSPANN Guest</createdBy>
+<createdTime>2018-06-27 18:13:04 UTC</createdTime>
+<generatorID>157582A4-DA25-ACD1-F857-F87E3DFB73E1</generatorID>
+<ownerDesignName>FirstDM</ownerDesignName>
+<abbreviation>EMP</abbreviation>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="EMPLOYEE_ID" id="96CCEDAD-7466-61F0-0DE9-E90421134F00">
+<createdBy>GSPANN Guest</createdBy>
+<createdTime>2018-06-27 18:13:04 UTC</createdTime>
+<generatorID>F17723A4-1F4F-329B-543F-B2B35AAAA067</generatorID>
+<ownerDesignName>FirstDM</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<domain>9849E204-5AF5-C4BD-CE4E-2B5192194BF9</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+</Table>

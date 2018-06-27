@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<ProcessModel class="oracle.dbtools.crest.model.design.process.ProcessModel" name="Process Model" id="9DB04ACA-BE58-D84B-B3D6-C0845DB7744F">
+<createdBy>GSPANN Guest</createdBy>
+<createdTime>2018-06-27 18:07:12 UTC</createdTime>
+<ownerDesignName>FirstDM</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</ProcessModel>

@@ -1,0 +1,36 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="157582A4-DA25-ACD1-F857-F87E3DFB73E1" name="EMPLOYEE">
+<createdBy>GSPANN Guest</createdBy>
+<createdTime>2018-06-27 18:08:45 UTC</createdTime>
+<ownerDesignName>FirstDM</ownerDesignName>
+<engineerTo>
+<item key="5F25F2A2-21D3-BBEB-3916-D6EBE9A4A392" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<preferredAbbreviation>EMP</preferredAbbreviation>
+<shortName>EMP</shortName>
+<synonym>EMP</synonym>
+<synonymToDisplay>EMP</synonymToDisplay>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="EMPLOYEE_ID" id="F17723A4-1F4F-329B-543F-B2B35AAAA067">
+<createdBy>GSPANN Guest</createdBy>
+<createdTime>2018-06-27 18:09:11 UTC</createdTime>
+<ownerDesignName>FirstDM</ownerDesignName>
+<engineerTo>
+<item key="5F25F2A2-21D3-BBEB-3916-D6EBE9A4A392" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<domain>9849E204-5AF5-C4BD-CE4E-2B5192194BF9</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+</Entity>
