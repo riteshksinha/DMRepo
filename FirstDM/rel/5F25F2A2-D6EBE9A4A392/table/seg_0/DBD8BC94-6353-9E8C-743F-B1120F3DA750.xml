@@ -21,5 +21,14 @@
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 <autoIncrementCycle>false</autoIncrementCycle>
 </Column>
+<Column name="EMPLOYEE_NAME" id="CAADA047-CF88-1C2D-2CD2-72319950C558">
+<createdBy>GSPANN Guest</createdBy>
+<createdTime>2018-06-27 20:56:34 UTC</createdTime>
+<ownerDesignName>FirstDM</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
 </columns>
 </Table>
